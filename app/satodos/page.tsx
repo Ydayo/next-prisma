@@ -1,5 +1,4 @@
 import DeleteButton from "@/components/DeleteButton";
-import CInput from "@/components/ui/Input";
 import { addTodo } from "@/libs/actions";
 import prisma from "@/libs/prisma";
 
